@@ -3,7 +3,7 @@
 ## 基本情報
 | Key | Value |
 |:--|:--|
-| Name | 川部 満久（Kawabe Mitsuhisa） |
+| Name | 川部 満久（Mitsuhisa Kawabe） |
 | Twitter | [@mkawabe7](https://twitter.com/mkawabe7) |
 | GitHub | [mkawabe7](https://github.com/mkawabe7) |
 | Mail | [mkawabe7@gmail.com](mkawabe7@gmail.com) |
