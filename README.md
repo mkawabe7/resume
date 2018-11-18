@@ -36,7 +36,7 @@ ROSを使ったロボット制御プログラムの設計を中心に従事。�
 福岡大学付属大濠高等学校　進学コース　卒業
 
 ## 外部発表
-* Kawabe Mitsuhisa, Tan Joo Kooi, Hyoungseop Kim, Ishikawa, S. “Extraction of Individual Pedestrians Employing Stereo Camera Images”, Proc.of International Conference on Control, Automation and Systems2011, 2011.
+* Mitsuhisa Kawabe, Joo Kooi Tan, Hyoungseop Kim, Seiji Ishikawa, Takashi Morie, “[Extraction of Individual Pedestrians Employing Stereo Camera Images](https://ieeexplore.ieee.org/document/6106217)”, Proc.of International Conference on Control, Automation and Systems2011, 2011.
 * 川部 満久，タン ジュークイ，金 亨燮，石川 聖二，「ステレオカメラ映像を用いた歩行者群の分離」，第29回計測自動制御学会九州支部学術講演会2010．
 * 川部 満久，タン ジュークイ，金 亨燮，石川 聖二，森江 隆，「車載ステレオカメラ映像を用いた歩行者群の個別化」，第30回計測自動制御学会九州支部学術講演会2011．
 * 川部 満久，室井基継：[画像処理装置、検査システム、画像処理方法及び画像処理プログラム](https://astamuse.com/ja/published/JP/No/2016004483)，特願2014-125564，特開2016-004483．
