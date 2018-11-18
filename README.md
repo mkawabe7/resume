@@ -44,3 +44,7 @@ ROSを使ったロボット制御プログラムの設計を中心に従事。�
 ## 受賞
 * Student Paper Award Finalist, International Conference on Control, Automation and Systems, 2011
 * 特に優れた業績による返還免除, 日本学生支援機構, 2012
+
+## 資格
+* 基本情報技術者, 2013
+* 中型自動車免許, 2006
